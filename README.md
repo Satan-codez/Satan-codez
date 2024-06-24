@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Satan-codez
-- 👀 I’m interested in learning new langagues 
+- 👀 I’m interested in learning new languages 
 - 🌱 I’m currently learning sql $ python
 
 
